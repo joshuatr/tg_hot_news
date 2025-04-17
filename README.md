@@ -39,4 +39,4 @@ Actions > TG_news_bot> build
 若有需求，可以在[.github/workflows/run.yml]中自行修改
 
 ## 可能遇到的问题
-- 1. 暂无
+- 1.  2025-04-17
